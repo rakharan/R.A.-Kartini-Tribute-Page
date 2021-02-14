@@ -14,7 +14,7 @@ body{
 span:hover{
     background-color: rgba(9, 231, 69, 0.5);
     transition: 1s;
-
+    Cursor:pointer;
 }
 
 #main {
